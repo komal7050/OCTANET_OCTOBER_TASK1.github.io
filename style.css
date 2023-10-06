@@ -4,7 +4,7 @@
 }
 
 .main{
-    width: 100%;
+    width: 100vw;
     background: linear-gradient(.50turn, rgba(220, 0, 0,1), 8%, rgba(0, 0, 0,1));
     /* background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(1.jpg); */
     background-position: center;
